@@ -1,10 +1,3 @@
-/*
- Jacob Earley
-4/4/21
-Making functions in java using basic java operations and concepts
-Adam Case
- */
-
 public class Math {
 	public static double abs(double x)
 	{
