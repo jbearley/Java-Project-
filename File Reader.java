@@ -1,9 +1,3 @@
-/*
- Name: Jacob Earley
-Date: 2/25/21
-Description: takes values from a file and derives menaing from the sums
-Sources Cited: Catlyn Crow
- */
 import java.io.*;
 import java.util.Scanner;
 public class Ketchup {
