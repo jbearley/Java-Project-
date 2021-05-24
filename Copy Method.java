@@ -1,9 +1,3 @@
-/*
-Name: Jacob Earley
-Date: 2/11/2021
-Description: This code takes in input value for 5 int, gives out the average as double in a text file
-Sources Cited: Adam Case lecture videos
-*/
 import java.util.Scanner;
 import java.io.*;
 public class Average {
