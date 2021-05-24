@@ -1,10 +1,3 @@
-/*
-Name: Jacob Earley
-Date: February 17, 2021
-Description: This program reads in a file of numbers, computes the minimum and maximum,
-and outputs them to a file.
-Sources Cited: Our class textbook, and lesson guide.
-*/
 import java.io.*;
 import java.util.Scanner;
 
