@@ -1,10 +1,3 @@
-/*
-Name: Jacob Earley
-3
-Date: 4/12/2021
-Description: Junit testing
-Sources Cited: Adam Case
-*/
 package Vending;
 import static org.junit.Assert.*;
 import org.junit.Test;
