@@ -1,10 +1,3 @@
-/*
-Name: Jacob Earley
-3
-Date: 4/12/2021
-Description: Vending machine methods for inner transaction in the vending machine
-Sources Cited: Adam Case
-*/
 package Vending;
 
 public class VendingMachine implements VendingMachineInterface{
