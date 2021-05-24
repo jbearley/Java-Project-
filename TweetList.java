@@ -1,9 +1,3 @@
-/*
-Name: Jacob Earley
-Date: 5/4/21
-Description: twitter tweet reader
-Sources Cited: Adam case
-*/
 package tweetlist;
 
 
