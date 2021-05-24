@@ -1,10 +1,3 @@
-/*
-Name: Jacob Earley
-Date: 5/4/21
-Description: twitter tweet reader
-Sources Cited: Adam case
-*/
-//Meet Patel helped with the rounding of lat and lon
 package tweetlist;
 
 import java.util.Scanner;
