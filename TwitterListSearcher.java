@@ -14,7 +14,7 @@ public class TwitterListSearcher {
 	    Scanner myObj = new Scanner(System.in);  // Create a Scanner object
 	    System.out.println("Enter in a filename: ");
 	    String fname = myObj.next();
-	    //create linked list
+	    //create linked lists
 	    
 	    try
 	    {
