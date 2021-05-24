@@ -17,7 +17,7 @@ public class TwitterListSearcher {
 	    //create linked lists
 	    
 	    try
-	    {
+	   {
 	    	
 	    	FileReader file = new FileReader(fname);
 	    	//file object create
